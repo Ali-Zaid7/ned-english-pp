@@ -513,7 +513,7 @@ Here’s the **strictly filtered table** containing **only the words you provide
 | **Wearisome**   | Tiring              | تھکا دینے والا                    |  
 
 # My Personal Experience 
-Last year, in 2025, I took a trial test for NAD and later appeared for the official NAD English test. I scored 24 out of 25 marks. Surprisingly, I did not learn English from YouTube or batch teachers—I only watched about three videos. Most of my learning came from AI tools like Deepseek and ChatGPT, which helped me stay on track using past papers.
+Last year, in 2025, I took a trial test for NED and later appeared for the official NED English test. I scored 24 out of 25 marks. Surprisingly, I did not learn English from YouTube or batch teachers—I only watched about three videos. Most of my learning came from AI tools like Deepseek and ChatGPT, which helped me stay on track using past papers.
 
 I also focused on synonyms from past papers to improve my vocabulary because large data looks smaller and easier to manage when organized in columns. During the test, I noticed that the material did not exactly match the past papers, but my extensive practice with AI and the most helpful technique—context-based synonyms—enabled me to predict the appropriate meaning of sentences containing unfamiliar words.
 
